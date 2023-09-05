@@ -39,7 +39,7 @@ cd Web-Testing-using-Selenium-WebDriver-and-TestNg
 mvn clean install
 
 
-**Project Structure
+### Project Structure
 The project follows a standard Maven project structure with the following important directories:
 
 src/main/java: Java source code for your automation framework.
@@ -48,13 +48,13 @@ src/test/java: TestNG test classes for your test scripts.
 src/test/resources: TestNG XML files for test execution.
 drivers: Store your WebDriver executable files (e.g., chromedriver, geckodriver) here.
 
-Reporting
+### Reporting
 TestNG generates test reports in the test-output directory. You can view them in your browser by opening the emailable-report.html or index.html file.
 
-Contributing
+### Contributing
 Feel free to contribute to this project by creating pull requests or opening issues. Please follow the project's coding standards and guidelines when submitting changes.
 
-License
+### License
 This project is licensed under the MIT License.
 
 
