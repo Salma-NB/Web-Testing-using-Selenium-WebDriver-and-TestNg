@@ -10,8 +10,6 @@ This repository contains a sample Selenium WebDriver project with TestNG and Jav
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Project Structure](#project-structure)
-- [Writing Test Scripts](#writing-test-scripts)
-- [Running Tests](#running-tests)
 - [Reporting](#reporting)
 - [Contributing](#contributing)
 - [License](#license)
@@ -49,3 +47,14 @@ src/main/resources: Configuration files, property files, and any other resources
 src/test/java: TestNG test classes for your test scripts.
 src/test/resources: TestNG XML files for test execution.
 drivers: Store your WebDriver executable files (e.g., chromedriver, geckodriver) here.
+
+Reporting
+TestNG generates test reports in the test-output directory. You can view them in your browser by opening the emailable-report.html or index.html file.
+
+Contributing
+Feel free to contribute to this project by creating pull requests or opening issues. Please follow the project's coding standards and guidelines when submitting changes.
+
+License
+This project is licensed under the MIT License.
+
+
