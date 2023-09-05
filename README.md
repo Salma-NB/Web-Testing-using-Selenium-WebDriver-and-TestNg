@@ -4,6 +4,8 @@
 
 This repository contains a sample Selenium WebDriver project with TestNG and Java for automated web testing. It demonstrates best practices for writing Selenium test scripts and organizing your automation project.
 
+The Automatiob project was made based on https://www.demoblaze.com/
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
